@@ -1,7 +1,7 @@
 # Wellcome to my Data Analysis and Data Science Portfolio
 
 ## PROJECTS
----
+
 ## SQL and Power BI
 
 ### [Adventure Works Sales Analysis](https://github.com/Icaro92/PBI_AW/tree/main)
