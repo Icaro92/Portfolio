@@ -2,7 +2,7 @@
 
 ## PROJECTS
 
-## SQL and Power BI
+### SQL and Power BI
 
 ### [Adventure Works Sales Analysis](https://github.com/Icaro92/PBI_AW/tree/main)
 
@@ -18,5 +18,3 @@
 <p align = "center">
   <img src="https://github.com/Icaro92/PBI_AW/assets/58118599/906d8918-bd3f-4cae-9666-69acdecb8c6c" width="350" alt="SalesDash Image">
 
-## Python
-### *work in progress*
