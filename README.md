@@ -4,8 +4,8 @@
 
 ### Power BI and SQL
 
-### [Customer Retention/Chrun Dasboard](https://github.com/Icaro92/Churn_Dashboard)
-* This dashboard aims to provide a better understanding of consumer profiles to avoid churn and support a proactive approach to clients at risk of churning. It achieves this result by providing a detailed profile of customers who have ended their contracts in the last 6 years. It also provides a Risk Analysis, providing the Chrun Rates of different products, services, and financial profiles. 
+### [Customer Retention/Churn Dasboard](https://github.com/Icaro92/Churn_Dashboard)
+* This dashboard aims to provide a better understanding of consumer profiles to avoid churn and support a proactive approach to clients at risk of churning. It achieves this result by providing a detailed profile of customers who have ended their contracts in the last 6 years. It also provides a Risk Analysis, providing the Churn Rates of different products, services, and financial profiles. 
 * The data was obtained from PwC's job simulation thread on the Theforage.com website.
   
 * [Link to Customer Retention Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjI4MDE5MmMtNjdlMS00ZDUyLTlmMDItMDJjNGViMGYyNDNiIiwidCI6IjAyODQyZDljLWVhNTAtNGVkNy1iMWY1LWI2MDIwOGIwM2YzNyJ9)
