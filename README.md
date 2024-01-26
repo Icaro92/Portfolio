@@ -16,8 +16,6 @@
 <p align = "center">
   <img src="https://github.com/Icaro92/PBI_AW/assets/58118599/906d8918-bd3f-4cae-9666-69acdecb8c6c" width="500" alt="SalesDash Image">
 
-### Power BI
-
 ### [Call Center Dashboard](https://github.com/Icaro92/PBI_Call_Center_PWC/tree/main)
 * This dashboard provides transparency and insight into the data received at the PhoneNow call center. It answers the manager's main concerns and provides an accurate overview of trends in customer and agent behavior.
 * The data was obtained from PwC's job simulation thread on the Theforage.com website.
