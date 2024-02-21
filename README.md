@@ -4,6 +4,17 @@
 
 ### Power BI and SQL
 
+### [Gender & Inclusion Dashboard for Human Resources](https://github.com/Icaro92/Gender_Diversity)
+* This dashboard aims to provide a better understanding of gender diversity and inclusion for the HR Department in a Telecom company. The company has been working hard to improve gender balance at the executive management level. The challenge for this particular analysis was determining proper KPIs to answer the most important questions and defining KPIs in Hiring, Promotion, Performance, and Turnover.
+* The data was obtained from PwC's job simulation thread on the Theforage.com website.
+  
+* [The Dashboard - Gender for Human Resources](https://app.powerbi.com/view?r=eyJrIjoiOGIyMDY4NzAtNDY2Ny00NGJiLThkODktODM4ZTMzNzgzZjFjIiwidCI6IjAyODQyZDljLWVhNTAtNGVkNy1iMWY1LWI2MDIwOGIwM2YzNyJ9)
+* [Please click for more details about the project](https://github.com/Icaro92/Gender_Diversity)
+
+<p align = "center">
+  <img src="https://github.com/Icaro92/Gender_Diversity/assets/58118599/236fcede-0bc6-4714-97d7-530337fdee56" width="450" alt="SalesDash Image">
+
+
 ### [Customer Retention/Churn Dashboard](https://github.com/Icaro92/Churn_Dashboard)
 * This dashboard aims to provide a better understanding of consumer profiles to avoid churn and support a proactive approach to clients at risk of churning. It achieves this result by providing a detailed profile of customers who have ended their contracts in the last 6 years. It also provides a Risk Analysis, providing the Churn Rates of different products, services, and financial profiles. 
 * The data was obtained from PwC's job simulation thread on the Theforage.com website.
